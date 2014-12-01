@@ -1,0 +1,39 @@
+.div_captaraudio{
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 123px;
+    padding-right: 123px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid;
+    border-color: orange;
+    border-radius: 25px;    
+}
+.titulos{
+    font-family: Tahoma;
+    color: #ff3300;
+}
+.titulos:hover{
+    color: #000066;
+    cursor: pointer;
+}
+.botoes{
+    width: 140px;
+    height: 36px;
+    margin-left: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;    
+}
+.botoes:hover{
+    background-color: #000066; 
+}
+.botoes:focus{
+    background-color: #000066;
+    cursor: pointer;    
+}

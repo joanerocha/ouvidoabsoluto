@@ -1,0 +1,131 @@
+.menu{    
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu li a{
+    padding: 2px 30px;
+    display: inline-block;
+    background-color: #ff6600; /*#6699ff #9900cc*/
+    color: white;
+    text-decoration: none; /* Tira aquele sublinhado que fica nos links, etc.*/
+    border-bottom: 4px solid #000000;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background-color: #000066;
+    font-weight: bold;
+    border-bottom-color: #000066;
+}
+.div_musicoteca{
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid;
+    border-color: orange;
+    border-radius: 25px;
+}
+.div_musicoteca h3{
+    font-family: Tahoma;
+}
+.cabecalhos{    
+    font-family: Agency FB;
+    text-align: center;
+    color: #ff3300; 
+}
+.tabelas {
+    font-family: Tahoma;
+    text-align: center;
+    padding-left: 137.5px;
+    padding-right: 137.5px;
+}
+.captions{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px #ff3300 solid;
+    font-weight: bolder;
+}
+.cells{
+    border: 2px #ffcc66 solid;
+}
+.div_botoes{
+    font-family: Tahoma;
+}
+.div_botoes #pdf, #pdf2, #editar, #editar2, #excluir, #excluir2{    
+    width: 140px;
+    height: 36px;
+    margin-right: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+.div_botoes #pdf{  
+    margin-left: 20px;
+}
+.div_botoes #pdf2{    
+    margin-left: 20px;
+}
+.div_botoes #editar{  
+    margin-left: 20px;  
+}
+.div_botoes #editar2{ 
+    margin-left: 20px;   
+}
+.div_botoes #excluir{  
+    margin-left: 20px;   
+}
+.div_botoes #excluir2{   
+    margin-left: 20px;   
+}
+.div_botoes #pdf:hover{    
+    background-color: #ff3300;
+}
+.div_botoes #pdf2:hover{    
+    background-color: #ff3300;
+}
+.div_botoes #editar:hover{    
+    background-color: #ff3300;
+}
+.div_botoes #editar2:hover{    
+    background-color: #ff3300;
+}
+.div_botoes #excluir:hover{    
+    background-color: #ff3300;
+}
+.div_botoes #excluir2:hover{    
+    background-color: #ff3300;
+}
+.div_botoes #pdf:focus{    
+    background-color: #ff3300;
+}
+.div_botoes #pdf2:focus{    
+    background-color: #ff3300;
+}
+.div_botoes #editar:focus{    
+    background-color: #ff3300;
+}
+.div_botoes #editar2:focus{    
+    background-color: #ff3300;
+}
+.div_botoes #excluir:focus{    
+    background-color: #ff3300;
+}
+.div_botoes #excluir2:focus{    
+    background-color: #ff3300;
+}

@@ -1,0 +1,47 @@
+.div_afinar{
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid;
+    border-color: orange;
+    border-radius: 25px;    
+}
+#habilitar_label{
+    font-family: Tahoma;
+    color: #ff3300;
+}
+#habilitar_label:hover{
+    color: #000066;
+}
+#habilitar_label:focus{
+    color: #000066;
+}
+#titulo{
+    font-family: Tahoma;
+    color: #ff3300;
+}
+.div_botoes{
+    font-family: Tahoma; 
+}
+.div_botoes{
+    width: 140px;
+    height: 36px;
+    margin-right: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+.div_botoes:hover{
+    background-color: #000066;
+}
+.div_botoes:focus{
+    background-color: #000066;
+}

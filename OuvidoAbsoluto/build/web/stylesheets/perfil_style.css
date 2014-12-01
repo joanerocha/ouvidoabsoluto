@@ -1,0 +1,59 @@
+.menu{    
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu li a{
+    padding: 2px 30px;
+    display: inline-block;
+    background-color: #ff6600; /*#6699ff #9900cc*/
+    color: white;
+    text-decoration: none; /* Tira aquele sublinhado que fica nos links, etc.*/
+    border-bottom: 4px solid #000000;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background-color: #000066;
+    font-weight: bold;
+    border-bottom-color: #000066;
+}
+.profile{
+    width: 200px;
+    font-family: Tahoma;    
+}
+.timeline{
+    width: 949px;
+    font-family: Tahoma;
+}
+.chat_feed{
+    width: 200px;    
+    font-family: Tahoma;
+}
+.botoes{    
+    width: 140px;
+    height: 36px;
+    margin-right: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+.textarea{
+    width: 700px;
+    height: 36px;
+}
+.area{
+    width: 550px;
+    height: 36px;    
+}

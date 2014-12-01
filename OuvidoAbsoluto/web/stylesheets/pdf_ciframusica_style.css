@@ -1,0 +1,38 @@
+.div_pdf{    
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 123px;
+    padding-right: 123px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid;
+    border-color: orange;
+    border-radius: 25px;
+}
+.botoes{
+    width: 140px;
+    height: 50px;
+    margin-left: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 12px;    
+}
+.botoes:hover{
+    background-color: #000066;
+}
+.botoes:focus{
+    background-color: #000066;
+}
+#titulo{
+    font-family: Tahoma;
+    color: #ff3300;
+}
+.titulos{
+    font-family: Tahoma;
+    color: #000066;
+}

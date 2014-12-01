@@ -1,0 +1,64 @@
+.div_alterartom{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:351px;
+    border: 2px solid;
+    border-color: orange;
+    border-radius: 25px;    
+}
+.titulo{    
+    font-family: Tahoma;
+    color: #0099ff;
+    padding-left: 500px;
+}
+.botoes{   
+    width: 125px;
+    height: 36px;
+    margin-right: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+.botoes:hover{
+    background-color: #0099ff;
+}
+.botoes:focus{
+    background-color: #0099ff;
+}
+.notas{    
+    width: 36px;
+    height: 36px;
+    margin-right: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+.notas:hover{
+    background-color: #0099ff;
+}
+.notas:focus{    
+    background-color: #0099ff;
+}
+.div_campos{
+    font-family: Tahoma;
+}
+.div_campos #afinacao{
+    height: 30px;
+    font-family: Tahoma;    
+}
+.div_campos #instrumento{
+    height: 30px;
+    font-family: Tahoma;    
+}

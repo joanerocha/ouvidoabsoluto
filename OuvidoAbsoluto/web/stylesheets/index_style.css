@@ -1,0 +1,83 @@
+.div_login{
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 123px;
+    padding-right: 123px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid;
+    border-color: orange;
+    border-radius: 25px;
+}
+.div_login #logo{
+    margin-bottom: 2px;
+    margin-left: 1.5px;
+    margin-right: 1.5px;
+}
+.div_campos{
+    font-family: Tahoma;
+}
+.div_campos #usuario{
+    height: 30px;
+    font-family: Tahoma;
+}
+.div_campos #senha{
+    height: 30px;
+    font-family: Tahoma;
+}
+.div_botoes{
+    font-family: Tahoma; 
+}
+.div_botoes #entrar{
+    width: 140px;
+    height: 36px;
+    margin-right: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+.div_botoes #entrar:hover{
+    background-color: #ff3300;
+}
+.div_botoes #entrar:focus{
+    background-color: #ff3300;
+}
+.div_botoes #limpar{
+    width: 140px;
+    height: 36px;
+    margin-left: 5px;
+    background-color: #ff6600;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right:  0px;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+.div_botoes #limpar:hover{
+    background-color: #ff3300;
+}
+.div_botoes #limpar:focus{
+    background-color: #ff3300;
+}
+.div_botoes p{
+    font-size: 12px;
+}
+.div_botoes p a{
+    text-decoration: none;   
+    color: #ff6600; 
+}
+.div_botoes p a:hover{
+    color: #ff3300;
+    font-weight: bold;
+}
+.div_botoes p a:focus{
+    color: #ff3300;
+    font-weight: bold;
+}
